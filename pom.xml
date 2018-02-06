@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.in28minutes.springboot.rest.example</groupId>
-	<artifactId>spring-boot-2-rest-service-basic</artifactId>
+	<groupId>com.springboot.rest.demo</groupId>
+	<artifactId>spring-boot-2-rest-service-basic-charita-master</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
